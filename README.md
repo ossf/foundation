@@ -5,4 +5,4 @@
 
 # Get Involved!
 * [Open SSF Community Calendar](https://calendar.google.com/calendar/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-* [Open SSF Mailing Lists](https://lists.openssf.org/g/main)
+* [Open SSF Mailing Lists](https://lists.openssf.org/g/main/subgroups)
