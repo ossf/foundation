@@ -4,12 +4,12 @@ Collaborating to secure the open source ecosystem
 
 Open source software has become pervasive in data centers, consumer devices, and services, representing its value among technologists and businesses alike. Because of its development process, the OSS that ultimately reaches end users has a chain of contributors and dependencies. It is important that those responsible for their user or organization’s security are able to understand and verify the security of this dependency chain. The initial technical initiatives will focus on:
 
-* Vulnerability Disclosures
-* Security Tooling
-* Security Best Practices
-* Identifying Security Threats to Open Source Projects
-* Securing Critical Projects
-* Developer Identity Verification
+* [Vulnerability Disclosures](https://github.com/ossf/wg-vulnerability-disclosures)
+* [Security Tooling](https://github.com/ossf/wg-security-tooling)
+* [Security Best Practices](https://github.com/ossf/wg-best-practices-oss-developers)
+* [Identifying Security Threats to Open Source Projects](https://github.com/ossf/wg-identifying-security-threats)
+* [Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects)
+* [Developer Identity Verification](https://github.com/ossf/wg-developer-identity)
 
 # OpenSSF Governance and Legal Documents
 
