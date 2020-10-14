@@ -9,7 +9,7 @@ Open source software has become pervasive in data centers, consumer devices, and
 * [Security Best Practices](https://github.com/ossf/wg-best-practices-oss-developers)
 * [Identifying Security Threats to Open Source Projects](https://github.com/ossf/wg-identifying-security-threats)
 * [Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects)
-* [Developer Identity Verification](https://github.com/ossf/wg-developer-identity)
+* [Digital Identity Attestation](https://github.com/ossf/wg-digital-identity-attestation)
 
 # OpenSSF Governance and Legal Documents
 
