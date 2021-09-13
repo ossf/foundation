@@ -14,7 +14,6 @@ Open source software has become pervasive in data centers, consumer devices, and
 # OpenSSF Governance and Legal Documents
 
 * [OpenSSF Funding Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf)
-* [OpenSSF Technical Charter Template](https://github.com/ossf/project-template/blob/main/CHARTER.md)
 * [OpenSSF Governing Board members](https://openssf.org/about/governing-board/)
 
 # Get Involved!
