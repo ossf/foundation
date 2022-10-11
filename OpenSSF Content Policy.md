@@ -16,7 +16,7 @@
 
 ## Process
 
-**Content calendar  **
+**Content calendar **
 
 
 
