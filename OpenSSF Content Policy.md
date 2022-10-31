@@ -19,7 +19,7 @@ The purpose of the OpenSSF Blog is to provide informative and educational conten
 * Demonstrate thought leadership 
 * Generate interest in improving open source software (OSS) security
 
-**Content Calendar  **
+**Content Calendar**
 
 
 
