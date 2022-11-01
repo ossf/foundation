@@ -42,7 +42,7 @@ We aim to keep OpenSSF blog posts short and focused on what’s newsworthy, what
 
 **Submission Process**
 
-If you’d like to suggest a topic area or volunteer to write a post, send an email to [marketing@linuxfoundation.org](mailto:marketing@linuxfoundation.org) with your name, topic, and few lines describing the post you’d like to write. We’ll let you know if we think your topic would be a good fit for our blog. You may use the template below to get started.
+If you’d like to suggest a topic area or volunteer to write a post, send an email to [marketing@openssf.org](mailto:marketing@openssf.org) with your name, topic, and few lines describing the post you’d like to write. We’ll let you know if we think your topic would be a good fit for our blog. You may use the template below to get started.
 
 **Topic Proposal Template:**
 
@@ -157,6 +157,17 @@ The purpose of OpenSSF Social Media accounts are to provide regular and timely u
     * Facebook - [https://www.facebook.com/openssf](https://www.facebook.com/openssf) 
     * YouTube - [https://www.youtube.com/c/OpenSSF/](https://www.youtube.com/c/OpenSSF/) 
     * GitHub - [https://github.com/ossf](https://github.com/ossf) 
+    * Blog - [https://openssf.org/blog](https://openssf.org/blog)
+    * News Room - [https://openssf.org/news/](https://openssf.org/news/)
+    * Website - [https://openssf.org/](https://openssf.org/)
+
+ * Official project accounts:
+    * [Sigstore](https://www.sigstore.dev/)
+      *    [Twitter](https://twitter.com/projectsigstore)
+    * [SLSA](https://slsa.dev/)
+    * [Scorecards](https://securityscorecards.dev/) 
+       *    [Twitter](https://twitter.com/Scorecards_dev)
+   
 * Tone should be casual, yet still professional
 * Pay attention to the norms, format, and style of each channel
 * Curate content about open source security that aligns with organizational objectives
