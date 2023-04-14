@@ -427,14 +427,12 @@ BB reminded the Governing Board of the Linux Foundation [antitrust policy](http:
 
 **Approval of Minutes**
 
-BB called on the Directors to approve the minutes of the 6 October 2022 and 11 November 2022  meetings of the Governing Board, in the forms attached hereto as Exhibit A and Exhibit B. Upon motion made by Dir. Thomas, seconded by Dir. Lakkakula and approved by all Representatives in attendance, the following resolutions were:  \
+BB called on the Directors to approve the minutes of the 6 October 2022 and 11 November 2022  meetings of the Governing Board, in the forms attached hereto as Exhibit A and Exhibit B. Upon motion made by Dir. Thomas, seconded by Dir. Lakkakula and approved by all Representatives in attendance, the following resolutions were:  
 
 
+* **RESOLVED:** That the minutes of the October 6, 2022 meeting of the Board of Directors, in the form attached hereto as Exhibit A, are hereby confirmed, approved and adopted. 
 
-
-* **RESOLVED:** That the minutes of the October 6, 2022 meeting of the Board of Directors, in the form attached hereto as Exhibit A, are hereby confirmed, approved and adopted. \
-
-* **RESOLVED: **That the minutes of the November 11, 2022 meeting of the Board of Directors, in the form attached hereto as Exhibit B, are hereby confirmed, approved and adopted.
+* **RESOLVED:** That the minutes of the November 11, 2022 meeting of the Board of Directors, in the form attached hereto as Exhibit B, are hereby confirmed, approved and adopted.
 
 **Call for nominations for Governing Board Chair**
 
@@ -464,12 +462,10 @@ BB asked for a motion to approve the pro forma budget proposal, which was made b
 
 ACTION: Staff to schedule a budget subcommittee meeting in early Q1.  
 
-BB then proposed that the Governing Board establish a committee to assist with and address staffing needs. The Recruitment Committee would collaborate on role descriptions, assess appropriate compensation ranges, and help recruit diverse, qualified applicants for the roles. The Recruitment Committee would not make hiring decisions or offers, participate in employment discussions after hire, or be required to participate in interview loops. Upon motion made by Dir. Brewer, seconded by Dir. Roese and approved by all Representatives in attendance, the following resolution was:  \
+BB then proposed that the Governing Board establish a committee to assist with and address staffing needs. The Recruitment Committee would collaborate on role descriptions, assess appropriate compensation ranges, and help recruit diverse, qualified applicants for the roles. The Recruitment Committee would not make hiring decisions or offers, participate in employment discussions after hire, or be required to participate in interview loops. Upon motion made by Dir. Brewer, seconded by Dir. Roese and approved by all Representatives in attendance, the following resolution was: 
 
 
-
-
-* **RESOLVED: **That the Governing Board of the OpenSSF shall establish a temporary Recruitment Committee for the purposes of assisting staff with the development of, and recruiting for open, 2023 job requisitions at the OpenSSF. 
+* **RESOLVED:** That the Governing Board of the OpenSSF shall establish a temporary Recruitment Committee for the purposes of assisting staff with the development of, and recruiting for open, 2023 job requisitions at the OpenSSF. 
 
 **2023 Governance Restructuring**
 
