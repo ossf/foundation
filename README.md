@@ -15,6 +15,7 @@ Open source software has become pervasive in data centers, consumer devices, and
 
 * [OpenSSF Funding Charter](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf)
 * [OpenSSF Governing Board members](https://openssf.org/about/board/)
+* [OpenSSF Direct Fund Agreement](https://docs.google.com/document/d/1Pkpcqoom9EFXBwQYVtma565WBA5ULYOCNiZYtnrGQuo/edit?usp=sharing)
 
 # Get Involved!
 * [Open SSF Community Calendar](https://calendar.google.com/calendar/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
