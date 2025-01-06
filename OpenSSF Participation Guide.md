@@ -1,4 +1,4 @@
-# Open Source Security Foundation Participation Guide
+# Open Source Security Foundation Member Participation Guide
 
 Welcome to OpenSSF\! Our comprehensive guide simplifies the onboarding process for new members, ensuring a seamless transition into our community. Use this list to access exclusive programs, engage with industry peers, and fully leverage your organization’s membership benefits right from the start.
 
