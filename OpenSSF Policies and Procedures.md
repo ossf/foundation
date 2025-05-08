@@ -141,7 +141,7 @@ hold a new election.
 
 ## Amending the Policies & Procedures
 The OpenSSF Policies & Procedures may be amended by a two thirds vote (excluding
-abstensions) of Governing Board members in good standing [per section 7.a.i]([url](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf)).
+abstensions) of Governing Board members in good standing [per section 7.a.i](https://cdn.platform.linuxfoundation.org/agreements/openssf.pdf).
 - Store in the GC github, and document pain points and suggested improvements in
 pull requests and issues
 - Review semi-annually, or as a priority ad hoc issue arises
