@@ -17,18 +17,13 @@ If you are a premier member and want to participate in any committee, please ema
 |Hila Hanif| Amazon Web Services, Inc.|
 |Mason Molesky| IBM Corporation|
 |Jessica Marz| Intel Corporation|
-|Mason Molesky| IBM Corporation|
 |Liang Xu| Huawei Technologies Co., Ltd|
 |Mike Linksvayer| Github Inc.|
-|Rao Lakkakula| Microsoft Corporation|
+|Rao Lakkakula| JPMorgan Chase|
 |Shobha Jagathpal| Morgan Stanley|
 
 
-## Marketing Committee Voting Representatives
-
-
-## Marketing Committee
-
+## Marketing Advisory Council Voting Representatives
 
 |  Name | Organization |
 |----------------|:------------------:|
