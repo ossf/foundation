@@ -1,4 +1,4 @@
-# Open SSF Committee Membership
+# OpenSSF Committee Membership
 Full committee membership policies are outlined in the [OpenSSF Policies and Procedures](https://github.com/ossf/foundation/blob/main/OpenSSF%20Policies%20and%20Procedures.md), but below is a brief overview:
 - Every Premier Member can appoint one representative as a voting committee member. Only premier members can be voting members.
   - Premier Members may have multiple representatives from their organization attend meetings; however, only one will serve as the designated voting member.
