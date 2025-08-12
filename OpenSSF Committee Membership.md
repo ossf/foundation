@@ -19,7 +19,7 @@ If you are a premier member and want to participate in any committee, please ema
 |Jessica Marz| Intel Corporation|
 |Liang Xu| Huawei Technologies Co., Ltd|
 |Mike Linksvayer| Github Inc.|
-|Rao Lakkakula| JPMorgan Chase|
+|Stephen Walli| Microsoft|
 |Shobha Jagathpal| Morgan Stanley|
 
 
@@ -37,7 +37,6 @@ If you are a premier member and want to participate in any committee, please ema
 |Kelly Ann| Apple Inc.|
 |Maria Hughes| Red Hat, Inc.|
 |Miaolai Zhou| Amazon Web Services. Inc.|
-|Rao Lakkakula| JPMorgan Chase|
 |Samantha Chau| GitHub, Inc.|
 |Sarah Evans| Dell Technologies|
 |Stephanie Wonderlick| Red Hat, Inc.|
