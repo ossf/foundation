@@ -30,13 +30,13 @@ If you are a premier member and want to participate in any committee, please ema
 |Declan O'Donovan| Morgan Stanley|
 |Elissa Waters| Sonatype, Inc.|
 |Gunnar Nilsson| Ericsson|
-|Jautau White| Microsoft Corporation|
 |Jeremy Garcia| Datadog, Inc.|
 |Jessica Marz| Intel Corporation|
 |Jinguo Cui| Huawei Technologies Co., Ltd|
 |Kelly Ann| Apple Inc.|
 |Maria Hughes| Red Hat, Inc.|
 |Miaolai Zhou| Amazon Web Services. Inc.|
+|Rao Lakkakula| Microsoft Corporation|
 |Samantha Chau| GitHub, Inc.|
 |Sarah Evans| Dell Technologies|
 |Stephanie Wonderlick| Red Hat, Inc.|
@@ -69,5 +69,6 @@ If you are a premier member and want to participate in any committee, please ema
 |Jamie Thomas| IBM Corporation|
 |Kelly Ann| Apple Inc.|
 |Miaolai Zhou| Amazon Web Services, Inc.|
+|Rao Lakkakula| Microsoft Corporation|
 |Sarah Evans| Dell Technologies|
 |Stephen Walli| Microsoft Corporation|
