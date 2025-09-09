@@ -16,3 +16,8 @@ Open source software has become pervasive in data centers, consumer devices, and
 * [Open SSF web site](https://openssf.org/)
 * [Open SSF Slack](https://slack.openssf.org/)
 * [Index of Repositories](https://github.com/ossf/community)
+
+# Learn More
+* [OpenSSF Projects Overview](https://docs.google.com/presentation/d/1cmrqKtRofUGmLNv_VpCC2itE9L2xs4VOFG-zdNQK4jg/edit?usp=sharing)
+* [OpenSSF Membership Overview](https://docs.google.com/presentation/d/1CtgiSwKiBs1WfMZoIVpdYfgVC2mwNWoUKPi9QQ96G6w/edit?usp=sharing)
+* [Community membership Deck](https://docs.google.com/presentation/d/1yiAGkDwxTSHFsjlrx4fMdfpeb5LSW064lQZMN9n9F5M/edit?usp=sharing)
