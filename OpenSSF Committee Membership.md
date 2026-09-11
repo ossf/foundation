@@ -12,7 +12,7 @@ If you are a premier member and want to participate in any committee, please ema
 
 |  Name | Organization |
 |----------------|:------------------:|
-|Emily Fox| Red Hat, Inc.|
+|Ben Flatgard| JPMorgan Chase|
 |Eva Hampl| Dell Technologies|
 |Hila Hanif| Amazon Web Services, Inc.|
 |Mason Molesky| IBM Corporation|
@@ -21,6 +21,7 @@ If you are a premier member and want to participate in any committee, please ema
 |Mike Linksvayer| Github Inc.|
 |Stephen Walli| Microsoft|
 |Shobha Jagathpal| Morgan Stanley|
+|Tara Houlden| Red Hat, Inc.|
 
 
 ## Marketing Advisory Council Voting Representatives
