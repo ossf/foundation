@@ -49,12 +49,9 @@ If you are a premier member and want to participate in any committee, please ema
 |----------------|:------------------:|
 |Bob Callaway| Google LLC|
 |Brian Fox| Sonatype, Inc.|
-|Emmy Eide| Red Hat, Inc.|
 |Eric Brewer| Google LLC|
 |Jeff Borek| IBM Corporation|
-|Liang Xu| Huawei Technologies Co., Ltd|
-|Mark Ryland| Amazon Web Services, Inc.|
-|Mike Linksvayer| GitHub, Inc.|
+|Xavier Rene-Corail| GitHub, Inc.|
 |Rao Lakkakula| Microsoft Corporation|
 |Sarah Evans| Dell Technologies|
 |Zach Steindler| GitHub, Inc.|
@@ -64,11 +61,8 @@ If you are a premier member and want to participate in any committee, please ema
 
 |  Name | Organization |
 |----------------|:------------------:|
-|Emilio Escobar| Datadog, Inc.|
 |Eric Brewer| Google LLC|
 |Jamie Thomas| IBM Corporation|
-|Kelly Ann| Apple Inc.|
-|Miaolai Zhou| Amazon Web Services, Inc.|
+|Jeff Borek, Alt Rep| IBM Corporation|
 |Rao Lakkakula| Microsoft Corporation|
 |Sarah Evans| Dell Technologies|
-|Stephen Walli| Microsoft Corporation|
