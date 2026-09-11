@@ -12,7 +12,6 @@ If you are a premier member and want to participate in any committee, please ema
 
 |  Name | Organization |
 |----------------|:------------------:|
-|Ben Flatgard| JPMorgan Chase|
 |Eva Hampl| Dell Technologies|
 |Hila Hanif| Amazon Web Services, Inc.|
 |Mason Molesky| IBM Corporation|
